@@ -1,0 +1,1 @@
+Esta carpeta contiene las capturas de pantalla utilizadas como evidenciAgrego carpeta de evidenciasas del proyecto, incluyendo instalación del entorno, creación del proyecto Ionic, integración de Capacitor, ejecución local, compilación en Android Studio, generación del APK e interfaz de gestión de tareas.
