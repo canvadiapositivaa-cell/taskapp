@@ -1,0 +1,7 @@
+Licencia de uso académico
+
+Este proyecto fue desarrollado con fines académicos como parte de una práctica de programación de dispositivos móviles.
+
+El código, las evidencias y los archivos incluidos en este repositorio se utilizan únicamente para fines educativos, de revisión y evaluación académica.
+
+No se autoriza su uso comercial sin autorización previa del autor o responsable del proyecto.Agrego licencia académica
